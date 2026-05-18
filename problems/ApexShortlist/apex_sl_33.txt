@@ -1,0 +1,5 @@
+*** Problem Statement ***
+
+Rose and Brunno play the game on a board shaped like a regular 1001-gon. Initially, all vertices of the board are white, and there is a chip at one of them. On each turn, Rose chooses an arbitrary positive integer \( k \), then Brunno chooses a direction: clockwise or counterclockwise, and moves the chip in the chosen direction by \( k \) vertices. If at the end of the turn the chip stands at a white vertex, this vertex is painted red.
+
+Find the greatest number of vertices that Rose can make red regardless of Brunno's actions, if the number of turns is not limited.

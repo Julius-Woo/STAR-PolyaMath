@@ -1,0 +1,7 @@
+*** Problem Statement ***
+
+Let $P$ and $Q$ be non-constant integer-coefficient monic polynomials, and let $a$ and $b$ be integers satisfying $| a | \geq 3$ and $ | b | \geq 3$. These satisfy the following conditions for all positive integers $n$:
+$$
+P(n) \mid Q(n)^2 + aQ(n) + 1, \quad Q(n) \mid P(n)^2 + bP(n) + 1.
+$$
+Call the sum of the 10 smallest possible values of $|a + b|$, $S_1$, and the sum of the 10 smallest possible values of $|\deg P|$, $S_2$. Determine $S_1 + S_2$.

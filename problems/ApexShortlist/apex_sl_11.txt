@@ -1,0 +1,8 @@
+*** Problem Statement ***
+
+Let $\mathbb{Z}_{>0}$ denote the set of positive integers. Let $f : \mathbb{Z}_{>0} \rightarrow \mathbb{Z}_{>0}$ be a function satisfying the following property: for $m,n \in \mathbb{Z}_{>0}$, the equation
+\[
+f(mn)^2 = f(m^2)f(f(n))f(mf(n))
+\]holds if and only if $m$ and $n$ are coprime.
+
+Let $S_n$ denote the set of all possible values of $f(n)$ that are strictly smaller than $n$. Determine $\sum_{n=1}^20 \sum{k \in S_n} k$.    

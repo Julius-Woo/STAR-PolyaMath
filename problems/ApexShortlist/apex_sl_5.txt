@@ -1,0 +1,3 @@
+*** Problem Statement ***
+
+Determine the sum of the smallest 50 possible values of $\text{gcd}(a^2+b^2+c^2, abc)$ across all triples of positive integers $(a,b,c)$.

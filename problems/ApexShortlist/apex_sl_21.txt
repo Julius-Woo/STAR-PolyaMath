@@ -1,0 +1,8 @@
+*** Problem Statement ***
+
+Let $N$ be a positive integer. There are $N$ pebbles on a table. Alice and Bob play a game by taking turns to pick pebbles from the table, with Alice starting first. On each turn, a player can perform one of the following two operations:
+Operation A: Pick 1, 2, or 3 pebbles;
+Operation B: Pick 4 pebbles.
+Each player is allowed to perform Operation B at most 5 times. The player who picks the last pebbles wins.
+
+Determine the number of $N$ in $1,2,\ldots,2025$ such that Alice has a winning strategy.

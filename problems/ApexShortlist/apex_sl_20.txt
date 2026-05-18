@@ -1,0 +1,5 @@
+*** Problem Statement ***
+
+The sequence $a_1, a_2, \dots , a_n$ is a permutation of $1, 2,\dots, n$. Each time, Alice swaps two neighbouring numbers in the sequence. Her goal is to make any three consecutive numbers in the sequence non-monotone. Find the smallest positive integer $k$ such that Alice can always achieve her goal in at most $k$ swaps. Let $N(n)$ be this smallest positive integer $k$. Then, compute $\sum_{n=10}^20 N(n)$.
+
+Remark. A monotonic sequence is either an increasing or decreasing sequence.

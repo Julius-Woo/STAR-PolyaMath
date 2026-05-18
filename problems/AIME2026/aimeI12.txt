@@ -1,0 +1,3 @@
+*** Problem Statement ***
+
+Triangle $\triangle ABC$ lies in plane $\mathcal P$ with $AB = 6, AC = 4,$ and $\angle BAC = 90^\circ.$ Let $D$ be the reflection across $\overline{BC}$ of the centroid of $\triangle ABC. {}$ Four spheres, all on the same side of $\mathcal P,$ have radii $1, 2, 3,$ and $r$ and are tangent to $\mathcal P$ at points $A, B, C,$ and $D,$ respectively. The four spheres are also each tangent to a second plane $\mathcal T$ and are all on the same side of $\mathcal T.$ The value of $r$ can be written as $\tfrac mn,$ where $m$ and $n$ are relatively prime positive integers. Find $m+n.$

@@ -1,0 +1,5 @@
+*** Problem Statement ***
+
+Let $n \geqslant 2$ be a positive integer. Paul has a $1 \times n^2$ rectangular strip consisting of $n^2$ unit squares, where the $i^{\text{th}}$ square is labelled with $i$ for all $1 \leqslant i \leqslant n^2$. He wishes to cut the strip into several pieces, where each piece consists of a number of consecutive unit squares, and then \emph{translate} (without rotating or flipping) the pieces to obtain an $n \times n$ square satisfying the following property: if the unit square in the $i^{\text{th}}$ row and $j^{\text{th}}$ column is labelled with $a_{ij}$, then $a_{ij} - (i + j - 1)$ is divisible by $n$.
+
+Determine the smallest number of pieces Paul needs to make in order to accomplish this.

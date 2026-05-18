@@ -1,0 +1,5 @@
+*** Problem Statement ***
+
+Compute
+
+\[ \sum_{k=1}^{\infty} \left( 2^{-\lfloor 101k/1 \rfloor} + 2^{-\lfloor 101k/2 \rfloor} + \cdots + 2^{-\lfloor 101k/100 \rfloor} \right). \]

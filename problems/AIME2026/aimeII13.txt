@@ -1,0 +1,7 @@
+*** Problem Statement ***
+
+Call finite sets of integers $S$ and $T$ cousins if
+- $S$ and $T$ have the same number of elements,
+- $S$ and $T$ are disjoint, and
+- the elements of $S$ can be paired with the elements of $T$ so that the elements in each pair differ by exactly $1$.
+For example, $\{1,2,5\}$ and $\{0,3,4\}$ are cousins. Suppose that the set $S$ has exactly $4040$ cousins. Find the least number of elements the set $S$ can have.

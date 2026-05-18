@@ -1,0 +1,8 @@
+*** Problem Statement ***
+
+Derek currently owes $\pi$ units of a currency called Money of Indiscrete Type, or MIT for short. Every day, the following happens:
+
+- He flips a fair coin to decide how much of his debt to pay. If he flips heads, he decreases his debt by 1 MIT. If he flips tails, he decreases his debt by 2 MITs. If Derek's debt ever becomes nonpositive, Derek becomes debt-free.
+- Afterwards, his remaining debt doubles.
+
+Compute the probability that Derek ever becomes debt-free. (MITs are continuous, so the debt is never rounded.)

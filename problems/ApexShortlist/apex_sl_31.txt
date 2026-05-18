@@ -1,0 +1,3 @@
+*** Problem Statement ***
+
+Let $a_1$, $a_2$, $r$, and $s$ be positive integers with $r$ and $s$ odd. The sequence $a_1, a_2, a_3, \dots$ is defined by\[ a_{n+2} = ra_{n+1} + sa_n\]for all $n \ge 1$. Determine the maximum possible number of integers $1 \le \ell \le 2025$ such that $a_\ell$ divides $a_{\ell+1}$, over all possible choices of $a_1$, $a_2$, $r$, and $s$.

@@ -1,0 +1,11 @@
+*** Problem Statement ***
+
+Let $m$ and $n$ be positive integers greater than 1. In each unit square of an $m \times n$ grid lies a coin with its tail-side up. A \emph{move} consists of the following steps:
+
+\begin{enumerate}
+    \item select a $2 \times 2$ square in the grid;
+    \item flip the coins in the top-left and bottom-right unit squares;
+    \item flip the coin in either the top-right or bottom-left unit square.
+\end{enumerate}
+
+Determine all pairs $(m, n)$ for which it is possible that every coin shows head-side up after a finite number of moves.

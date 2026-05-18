@@ -1,0 +1,3 @@
+*** Problem Statement ***
+
+The numbers 1, 2, ..., 2100 are written on a board. Every second, Mark takes two numbers on the board, \( a \) and \( b \), erases them, and replaces them with \( \gcd(a, b) \) and \( \operatorname{lcm}(a, b) \). Mark stops once any move he makes will not change the numbers written on the board. Compute the number of divisors of the 2026th smallest positive integer written on the board when he finishes.

@@ -1,0 +1,6 @@
+*** Problem Statement ***
+
+Compute the second smallest positive integer \( n \) such that
+
+- \( n \) is divisible by 101, and
+- the decimal representation of \( n \) contains the number 2026 as a consecutive sequence of digits.

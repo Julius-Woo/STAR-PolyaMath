@@ -1,0 +1,3 @@
+*** Problem Statement ***
+
+Let $ S $ be the set of vertices of a regular 24-gon. Find the number of ways to draw 12 segments of equal lengths so that each vertex in $ S $ is an endpoint of exactly one of the 12 segments.

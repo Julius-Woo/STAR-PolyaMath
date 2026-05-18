@@ -1,0 +1,13 @@
+*** Problem Statement ***
+
+Consider a bee (denoted by X ) in a rectangular honeycomb as seen below:
+
+|  | $1$ | $2$ | $3$ | $4$ | $5$ | $6$ | $7$ |
+| :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- |
+| $A$ |  |  |  | X |  |  |  |
+| $B$ |  |  |  |  |  |  |  |
+| $C$ |  |  |  |  |  |  |  |
+| $D$ |  |  |  |  |  |  |  |
+
+In one move, the bee may move to an adjacent square via an up, down, left, or right move, and it can no longer move once it reaches row $D$. The bee cannot move outside the honeycomb. It cannot revisit a square it has already been to, and it cannot move more than six times. Find the number of different paths the bee can take from its starting point to row $D$.
+

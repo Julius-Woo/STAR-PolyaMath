@@ -1,0 +1,6 @@
+*** Problem Statement ***
+
+Puddles the Frog has a row of $n \geq 2$ lilypads, labeled $1$ through $n$, with $1$ unit between consecutive lilypads. He is at lilypad $1$, and wishes to visit lilypads $2$ through $n$ once each, before ending up back at lilypad $1$. However, he may jump no more than $3$ units at a time. Let $f(n)$ be the maximum total distance of Puddles's trip, starting from lilypad $1$ and ending back at lilypad $1$. Determine the value of
+\[
+\lim_{n \to \infty} \frac{f(n)}{n}.
+\]

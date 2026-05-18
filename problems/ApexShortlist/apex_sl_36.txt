@@ -1,0 +1,9 @@
+*** Problem Statement ***
+
+Given an odd integer $n \geq 3$. Let $V$ be the set of vertices of a regular $n$-gon, and $P$ be the set of all regular polygons formed by points in $V$. For instance, when $n=15$, $P$ consists of $1$ regular $15$-gon, $3$ regular pentagons, and $5$ regular triangles.
+
+Initially, all points in $V$ are uncolored. Two players, $A$ and $B$, play a game where they take turns coloring an uncolored point, with player $A$ starting and coloring points red, and player $B$ coloring points blue. The game ends when all points are colored. A regular polygon in $P$ is called $\textit{good}$ if it has more red points than blue points.
+
+Let $K(n)$ be the largest positive integer $k$ such that no matter how player $B$ plays, player $A$ can ensure that there are at least $k$ $\textit{good}$ polygons.
+
+Find $\sum_{n=10, n odd}^{30} K(n)$.

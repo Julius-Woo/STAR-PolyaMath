@@ -1,0 +1,7 @@
+*** Problem Statement ***
+
+Let $S$ denote the value of the infinite sum
+\[
+\frac{1}{9} + \frac{1}{99} + \frac{1}{999} + \frac{1}{9999}  + \cdots
+\]
+Find the remainder when the greatest integer less than or equal to $10^{100} S$ is divided by $1000.$

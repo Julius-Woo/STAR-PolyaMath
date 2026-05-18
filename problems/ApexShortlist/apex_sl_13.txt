@@ -1,0 +1,5 @@
+*** Problem Statement ***
+
+Let $n$ be a positive integer. A class of $n$ students run $n$ races, in each of which they are ranked with no draws. A student is eligible for a rating $(a,\,b)$ for positive integers $a$ and $b$ if they come in the top $b$ places in at least $a$ of the races. Their final score is the maximum possible value of $a-b$ across all ratings for which they are eligible.
+
+Find the maximum possible sum of all the scores of the $n$ students.

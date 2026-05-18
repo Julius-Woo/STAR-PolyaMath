@@ -1,0 +1,4 @@
+*** Problem Statement ***
+
+Let $a$ and $b$ be positive integers such that $\varphi(ab+1)$ divides $a^2 + b^2 + 1$. Prove that $a$ and $b$ are Fibonacci numbers.
+

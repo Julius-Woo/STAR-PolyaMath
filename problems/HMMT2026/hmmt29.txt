@@ -1,0 +1,3 @@
+*** Problem Statement ***
+
+Let $ABC$ be triangle with incenter $I$ and incircle $\omega$. The circumcircle of triangle $BIC$ intersects $\omega$ at points $E$ and $F$. Suppose that $\Gamma \neq \omega$ is a circle passing through $E$ and $F$ and tangent to lines $AB$ and $AC$. If $AB = 5$, $AC = 7$, and $\Gamma$ has twice the radius of $\omega$, compute $BC$.

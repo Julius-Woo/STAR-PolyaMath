@@ -1,0 +1,15 @@
+*** Problem Statement ***
+
+Let \( a, b, \) and \( c \) be pairwise distinct complex numbers such that
+
+\[
+a^2 + ab + b^2 = 3(a + b),
+\]
+\[
+a^2 + ac + c^2 = 3(a + c),
+\]
+\[
+b^2 + bc + c^2 = 5(b + c) + 1.
+\]
+
+Compute \( a \).

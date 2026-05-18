@@ -1,0 +1,9 @@
+*** Problem Statement ***
+
+A list of positive integers satisfies the following properties:
+(A) The mean of the list is $8$.
+(2) The median of the list is $13$.
+(D) The mode of the list is $15$.
+
+Moreover, the range of the list is $27$. What is the fewest possible number of elements that could be in the list?
+

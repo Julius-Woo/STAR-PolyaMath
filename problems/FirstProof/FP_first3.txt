@@ -1,0 +1,12 @@
+Let $\lambda=(\lambda_1 > \dots > \lambda_n \geq 0)$ be a partition with distinct parts.  Assume moreover that
+$\lambda$ is {\it restricted}, in the sense that it has a unique part of size $0$ and no part of size $1$.
+Does there exist a nontrivial Markov chain on $S_n(\lambda)$ whose stationary distribution is given by
+$$\frac{F^*_{\mu}(x_1,\dots,x_n; q=1,t)}{P^*_{\lambda}(x_1,\dots,x_n;
+q=1,t)} \text{ for }\mu\in S_n(\lambda)$$
+where $F^*_{\mu}(x_1,\dots,x_n; q,t)$ and
+$P^*_{\lambda}(x_1,\dots,x_n;q,t)$ are the
+interpolation ASEP polynomial and interpolation Macdonald polynomial,
+respectively?  If so, prove that the Markov chain you construct has the
+desired stationary distribution.  By ``nontrivial'' we mean that the
+transition probabilities of the Markov chain should not be described
+using the polynomials $F_{\mu}^*(x_1,\dots,x_n; q,t)$. 

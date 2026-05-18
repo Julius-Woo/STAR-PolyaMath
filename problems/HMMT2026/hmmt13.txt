@@ -1,0 +1,5 @@
+*** Problem Statement ***
+
+The numbers 1, 2, 3, 4, 5, 6, and 7 are written on a blackboard in some order. Jacob repeatedly swaps numbers at adjacent positions on the blackboard until the numbers are sorted in ascending order.
+
+Compute the number of initial orderings for which it is possible that the number 4 was included in a swap at most once.

@@ -1,0 +1,10 @@
+*** Problem Statement ***
+
+Let $n$ be a positive integer and $p$ be a prime. In terms of $n$ and $p$, let $k(n,p)$ be the largest nonnegative integer $k$ for which there exists a polynomial $P(x)$ with integer coefficients satisfying the following conditions:
+- The $x^n$ coefficient of $P(x)$ is $1$.
+- $p^k$ divides $P(x)$ for all integers $x$.
+Compute
+\[
+\sum_{n=11}^{15} \sum_{p \in \{11,13\}} k(n,p).
+\]
+as an integer.

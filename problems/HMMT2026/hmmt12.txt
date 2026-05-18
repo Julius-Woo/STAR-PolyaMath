@@ -1,0 +1,3 @@
+*** Problem Statement ***
+
+Jacopo is rolling a fair 4-sided die with faces labeled 1, 2, 3, and 4. He starts with a score of 0. Every time he rolls a face with label $i$, he adds $i$ to his score, and then replaces the label of that face with 0. Compute Jacopo's expected score after 4 rolls.

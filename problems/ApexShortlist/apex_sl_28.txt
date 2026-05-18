@@ -1,0 +1,3 @@
+*** Problem Statement ***
+
+Two points are selected independently and uniformly at random inside a regular hexagon. Compute the probability that a line passing through both of the points intersects a pair of opposite edges of the hexagon.

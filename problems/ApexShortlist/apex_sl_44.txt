@@ -1,0 +1,7 @@
+*** Problem Statement ***
+
+Let $\mathcal P$ be a simple polygon and let $j$ and $k$ be positive integers with $j > k$. Suppose that it is possible to partition $\mathcal P$ into $j$ rectangles and shade $k$ of them gray such that no two shaded rectangles share a positive amount of perimeter. (It is permissible for any two of them to share a vertex.) Let $S(j,k)$ denote the fewest number of sides that $\mathcal P$ could have. Compute 
+\[
+\sum_{k=5}^{10}\sum_{j=11}^{15} S(j,k).
+\]
+

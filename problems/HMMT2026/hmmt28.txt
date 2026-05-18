@@ -1,0 +1,3 @@
+*** Problem Statement ***
+
+Let $ABC$ be a triangle with orthocenter $H$. The internal angle bisector of $\angle BAC$ meets the circumcircles of triangles $ABH$, $ACH$, and $ABC$ again at points $P$, $Q$, and $M$, respectively. Suppose that points $A$, $P$, $Q$, and $M$ are distinct and lie on the internal angle bisector of $\angle BAC$ in that order. Given that $AP = 4$, $AQ = 5$, and $BC = 7$, compute $AM$.

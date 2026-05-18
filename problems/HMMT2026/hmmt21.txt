@@ -1,0 +1,4 @@
+*** Problem Statement ***
+
+Let $ABCD$ and $WXYZ$ be squares such that $W$ lies on segment $\overline{AD}$, $X$ lies on segment $\overline{AB}$, and points $Y$ and $Z$ lie strictly inside $ABCD$. Given that $AW = 4$, $AX = 5$, and $AB = 12$, compute the area of triangle $\triangle BCY$.
+

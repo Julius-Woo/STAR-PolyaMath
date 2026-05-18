@@ -1,0 +1,3 @@
+*** Problem Statement ***
+
+Let $R$ be the region in the complex plane enclosed by the curve $f(\theta)=e^{i \theta}+e^{2 i \theta}+\frac{1}{3} e^{3 i \theta}$ for $0 \leq$ $\theta \leq 2 \pi$. Compute the perimeter of $R$.

@@ -1,0 +1,3 @@
+*** Problem Statement ***
+
+Compute the sum of all positive integers \( n \) such that \( n \) has at least 6 positive integer divisors and the 6th largest divisor of \( n \) is 6.

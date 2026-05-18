@@ -1,0 +1,3 @@
+*** Problem Statement ***
+
+Let $m$ and $n$ be positive integers. A circular necklace contains $mn$ beads, each either red or blue. It turned out that no matter how the necklace was cut into $m$ blocks of $n$ consecutive beads, each block had a distinct number of red beads. Determine, with proof, all possible values of the ordered pair $(m, n)$.

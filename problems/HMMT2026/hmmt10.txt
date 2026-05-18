@@ -1,0 +1,7 @@
+*** Problem Statement ***
+
+Let
+
+\[ S = \sum_{k=0}^{2026} k \binom{2k}{k} 2^k. \]
+
+Compute the remainder when \( S \) is divided by 2027. (Note that 2027 is prime.)

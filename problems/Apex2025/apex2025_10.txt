@@ -1,0 +1,10 @@
+*** Problem Statement ***
+
+Let $S$ be the set of all strings of length $15$ formed from five $1$s, $2$s, and $3$s. Say a string in $S$ is threnodic if:
+
+\begin{itemize}
+\item No two adjacent characters are the same, and
+\item Through a sequence of removals of contiguous substrings $123,231$, and $312$, the string can be deleted (note that the intermediate strings can have adjacent equal characters).
+\end{itemize}
+
+Compute the number of threnodic strings in $S$.

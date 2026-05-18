@@ -1,0 +1,3 @@
+*** Problem Statement ***
+
+Circle $\omega_1$ with radius 6 centered at point $A$ is internally tangent at point $B$ to circle $\omega_2$ with radius 15. Points $C$ and $D$ lie on $\omega_2$ such that $\overline{BC}$ is a diameter of $\omega_2$ and $\overline{BC} \perp \overline{AD}$. The rectangle $EFGH$ is inscribed in $\omega_1$ such that $\overline{EF} \perp \overline{BC}$, $C$ is closer to $\overline{GH}$ than to $\overline{EF}$, and $D$ is closer to $\overline{FG}$ than to $\overline{EH}$, as shown. Triangles $\triangle DGF$ and $\triangle CHG$ have equal areas. The area of rectangle $EFGH$ is $\frac{m}{n}$, where $m$ and $n$ are relatively prime positive integers. Find $m + n$.

@@ -1,0 +1,7 @@
+*** Problem Statement ***
+
+Compute the largest positive integer \( n \) such that
+
+\[
+n \text{ divides } (\lfloor \sqrt{n} \rfloor)!^{n!} + 450.
+\]

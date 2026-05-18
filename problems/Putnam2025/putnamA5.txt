@@ -1,0 +1,3 @@
+*** Problem Statement ***
+
+Let $n$ be an integer with $n \geq 2$. For a sequence $s = (s_1,\dots,s_{n-1})$ where each $s_i = \pm 1$, let $f(s)$ be the number of permutations $(a_1,\dots,a_n)$ of $\{1,2,\dots,n\}$ such that $s_i(a_{i+1}-a_i) > 0$ for all $i$. For each $n$, determine the sequences $s$ for which $f(s)$ is maximal.

@@ -1,0 +1,10 @@
+*** Problem Statement ***
+
+Elisa has 2023 treasure chests, all of which are unlocked and empty at first. Each day, Elisa adds a new gem to one of the unlocked chests of her choice, and afterwards, a fairy acts according to the following rules:
+
+\begin{itemize}
+    \item if more than one chests are unlocked, it locks one of them, or
+    \item if there is only one unlocked chest, it unlocks all the chests.
+\end{itemize}
+
+Given that this process goes on forever, prove that there is a constant $C$ with the following property: Elisa can ensure that the difference between the numbers of gems in any two chests never exceeds $C$, regardless of how the fairy chooses the chests to lock.

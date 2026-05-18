@@ -1,0 +1,5 @@
+*** Problem Statement ***
+
+Let $ABC$ be an acute scalene triangle with no angle equal to $60^\circ$. Let $\omega$ be the circumcircle of $ABC$. Let $\Delta_B$ be the equilateral triangle with three vertices on $\omega$, one of which is $B$. Let $\ell_B$ be the line through the two vertices of $\Delta_B$ other than $B$. Let $\Delta_C$ and $\ell_C$ be defined analogously. Let $Y$ be the intersection of $AC$ and $\ell_B$, and let $Z$ be the intersection of $AB$ and $\ell_C$.
+
+Let $N$ be the midpoint of minor arc $BC$ on $\omega$. Let $\mathcal{R}$ be the triangle formed by $\ell_B$, $\ell_C$, and the tangent to $\omega$ through $N$. Prove that the circumcircle of $AYZ$ and the incircle of $\mathcal{R}$ are tangent.

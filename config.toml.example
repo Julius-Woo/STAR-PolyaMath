@@ -1,0 +1,28 @@
+# BYOK Provider Configuration
+# Copy this file to config.toml and fill in your values.
+# config.toml is gitignored and will NOT be committed.
+
+[provider]
+type = "azure"                                          # "azure" | "openai" | "anthropic"
+base_url = "https://<your-resource>.openai.azure.com"   # API endpoint
+api_key = ""                                            # Your API key
+api_version = ""                                        # Azure only, e.g. "2024-12-01-preview"
+
+# Azure deployment name mapping
+# Key = model ID used in config.py (e.g. REASONER_MODEL)
+# Value = your Azure deployment name (string form)
+#        OR a sub-table with `deployment` + optional `reasoning_effort`
+# NOTE: Quote keys containing dots!
+[provider.wire_models]
+# --- Form 1: string (no reasoning_effort override; BYOK drops it) ---
+# "gpt-5.4" = "my-gpt54-deployment"
+# "gpt-5.5" = "my-gpt55-deployment"
+
+# --- Form 2: table (lets you forward `--reasoning-effort` to BYOK) ---
+# [provider.wire_models."azure-gpt-5.5"]
+# deployment       = "gpt-5.5"
+# reasoning_effort = "high"   # "low" | "medium" | "high" ｜ "xhigh"(Azure-supported values)
+
+# [provider.wire_models."claude-opus-4.7"]
+# deployment       = "my-claude-opus-deployment"
+# reasoning_effort = "high"

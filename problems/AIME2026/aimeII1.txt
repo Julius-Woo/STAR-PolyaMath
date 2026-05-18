@@ -1,0 +1,3 @@
+*** Problem Statement ***
+
+Find the sum of the $10$th terms of all arithmetic sequences of integers that have first term equal to $4$ and include both $24$ and $34$ as terms.

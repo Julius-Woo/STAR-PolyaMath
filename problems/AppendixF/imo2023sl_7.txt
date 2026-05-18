@@ -1,0 +1,5 @@
+*** Problem Statement ***
+
+The Imomi archipelago consists of $n \geqslant 2$ islands. Between each pair of distinct islands is a unique ferry line that runs in both directions, and each ferry line is operated by one of $k$ companies. It is known that if any one of the $k$ companies closes all its ferry lines, then it becomes impossible for a traveller, no matter where the traveller starts at, to visit all the islands exactly once (in particular, not returning to the island the traveller started at).
+
+Determine the maximal possible value of $k$ in terms of $n$.

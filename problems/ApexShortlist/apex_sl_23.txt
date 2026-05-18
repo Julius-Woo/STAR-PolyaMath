@@ -1,0 +1,4 @@
+*** Problem Statement ***
+
+$n$ assistants start simultaneously from one vertex of a cube-shaped planet with edge length $1$. Each assistant moves along the edges of the cube at a constant speed of $2, 4, 8, \cdots, 2^n$, and can only change their direction at the vertices of the cube. The assistants can pass through each other at the vertices, but if they collide at any point that is not a vertex, they will explode. Determine the maximum possible value of $n$ such that the assistants can move infinitely without any collisions.	
+

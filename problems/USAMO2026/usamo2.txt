@@ -1,0 +1,3 @@
+*** Problem Statement ***
+
+Annie is playing a game where she starts with a row of positive integers, written on a blackboard, each of which is a power of $2$. On each turn, she can erase two adjacent numbers and replace them with a power of $2$ that is greater than either of the erased numbers. This shortens the row of numbers, and she continues to take turns until only one number remains. Annie wins the game if the final remaining number is less than $4$ times the sum of the original numbers. Is it always possible for Annie to win, regardless of the starting row of numbers?

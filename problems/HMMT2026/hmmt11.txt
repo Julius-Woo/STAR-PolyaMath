@@ -1,0 +1,3 @@
+*** Problem Statement ***
+
+A math test has 4 questions. The topic of each question is randomly and independently chosen from algebra, combinatorics, geometry, and number theory. Given that the math test has at least one algebra question, at least one combinatorics question, and at least one geometry question, compute the probability that this test has at least one number theory question.

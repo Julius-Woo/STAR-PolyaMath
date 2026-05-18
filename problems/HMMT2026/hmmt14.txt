@@ -1,0 +1,3 @@
+*** Problem Statement ***
+
+Sarunyu has a stick of length 1 with one endpoint marked in red. Every minute, he picks one of his sticks uniformly at random and breaks it into two halves of equal length. Compute the expected length of the stick with the red endpoint after 5 minutes.

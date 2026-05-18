@@ -1,0 +1,3 @@
+*** Problem Statement ***
+
+Find the sum of all real numbers $r$ such that there is at least one point where the circle with radius $r$ centered at $(4, 39)$ is tangent to the parabola with equation $2y = x^2 - 8x + 12.$

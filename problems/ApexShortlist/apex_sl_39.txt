@@ -1,0 +1,8 @@
+*** Problem Statement ***
+
+$S={1,2,...,1000}$ and $T'=\left\{ 1001-t|t \in T\right\}$.
+A set $P$ satisfies the following three conditions:
+$1.$ All elements of $P$ are a subset of $S$.
+$2. A,B \in P \Rightarrow A \cap B \neq \O$
+$3. A \in P \Rightarrow A' \in P$
+Find the maximum of $|P|$.

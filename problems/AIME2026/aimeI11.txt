@@ -1,0 +1,7 @@
+*** Problem Statement ***
+
+The integers from $1$ to $64$ are placed in some order into an $8 \times 8$ grid of cells with one number in each cell. Let $a_{i,j}$ be the number placed in the cell in row $i$ and column $j,$ and let $M$ be the sum of the absolute differences between adjacent cells. That is,
+\[
+M = \sum^8_{i=1} \sum^7_{j=1} (|a_{i,j+1} - a_{i,j}| + |a_{j+1,i} - a_{j,i}|).
+\]
+Find the remainder when the maximum possible value of $M$ is divided by $1000.$

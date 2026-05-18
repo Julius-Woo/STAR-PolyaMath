@@ -1,0 +1,3 @@
+*** Problem Statement ***
+
+Let \(ABC\) be a triangle, and \(M\) be the midpoint of segment \(\overline{BC}\). Points \(P\) and \(Q\) lie on segments \(\overline{AB}\) and \(\overline{AC}\), respectively, so that \(\angle PMB = \angle QMC = \frac{1}{2}\angle BAC\). Given that \(AP = 1\), \(AQ = 3\), and \(BC = 8\), compute \(BP\).

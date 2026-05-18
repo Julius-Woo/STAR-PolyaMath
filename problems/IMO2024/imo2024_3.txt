@@ -1,0 +1,7 @@
+*** Problem Statement ***
+
+Let $a_1, a_2, a_3, \ldots$ be an infinite sequence of positive integers, and let $N$ be a positive integer. Suppose that, for each $n > N$, $a_n$ is equal to the number of times $a_{n-1}$ appears in the list $a_1, a_2, \ldots, a_{n-1}$.
+
+Prove that at least one of the sequences $a_1, a_3, a_5, \ldots$ and $a_2, a_4, a_6, \ldots$ is eventually periodic.
+
+(An infinite sequence $b_1, b_2, b_3, \ldots$ is \emph{eventually periodic} if there exist positive integers $p$ and $M$ such that $b_{m+p} = b_m$ for all $m \geqslant M$.)

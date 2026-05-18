@@ -1,0 +1,3 @@
+*** Problem Statement ***
+
+A regular hexagon with side length 4 is subdivided into a lattice of 96 equilateral triangles of side length 1. Let $S$ be the set of all vertices of this lattice. Compute the number of nondegenerate triangles with vertices in $S$ that contain the center of the hexagon strictly in their interior.

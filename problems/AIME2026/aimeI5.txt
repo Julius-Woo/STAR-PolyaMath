@@ -1,0 +1,3 @@
+*** Problem Statement ***
+
+A plane contains points $A$ and $B$ with $AB = 1$. Point $A$ is rotated in the plane counterclockwise through an acute angle $\theta$ around point $B$ to point $A^\prime$. Then $B$ is rotated in the plane clockwise through angle $\theta$ around point $A^\prime$ to point $B^\prime$. Suppose that $AB^\prime = \frac{4}{3}$. The value of $\cos \theta$ can be written as $\frac{m}{n}$ , where $m$ and $n$ are relatively prime positive integers. Find $m + n$.

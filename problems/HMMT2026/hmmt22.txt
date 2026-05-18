@@ -1,0 +1,3 @@
+*** Problem Statement ***
+
+Let $HORSE$ be a convex pentagon such that $\angle EHO = \angle ORS = \angle SEH = 90^\circ$ and $\angle HOR = \angle RSE = 135^\circ$. Given that $HO = 20$, $SE = 26$, and $OS = 10$, compute the area of $HORSE$.

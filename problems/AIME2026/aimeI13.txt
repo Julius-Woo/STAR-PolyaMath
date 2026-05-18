@@ -1,0 +1,7 @@
+*** Problem Statement ***
+
+For each positive integer $r$ less than $502,$ define
+\[
+S_r=\sum_{m\ge 0}\dbinom{10000}{502n+r},
+\]
+where $\binom{10000}{n}$ is defined to be $0$ when $n>10000.$ That is, $S_r$ is the sum of all binomial coefficients of the form $\binom{10000}{k}$ for which $0\le k\le 10000$ and $k-r$ is a multiple of $502.$ Find the number of integers in the list $S_0,S_1,\dots,S_{501}$ that are multiples of the prime number $503.$

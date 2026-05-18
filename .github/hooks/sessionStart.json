@@ -1,0 +1,12 @@
+{
+  "version": 1,
+  "hooks": {
+    "sessionStart": [
+      {
+        "type": "command",
+        "bash": "set -e; LOG=/tmp/star_share_audit.log; PAYLOAD=\"$(cat)\"; printf '\\n==== %s STAR_PROBLEM_ID=%s STAR_AGENT_ROLE=%s ====\\n' \"$(date -Iseconds)\" \"$STAR_PROBLEM_ID\" \"$STAR_AGENT_ROLE\" >> \"$LOG\"; OUT=$(printf '%s' \"$PAYLOAD\" | python3 \"$(git rev-parse --show-toplevel)/src/hooks/inject_problem_context.py\"); printf '%s\\n' \"$OUT\" | head -c 200 >> \"$LOG\"; printf '\\n' >> \"$LOG\"; printf '%s' \"$OUT\"",
+        "timeoutSec": 10
+      }
+    ]
+  }
+}

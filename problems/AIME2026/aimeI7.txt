@@ -1,0 +1,6 @@
+*** Problem Statement ***
+
+Find the number of functions $\pi$ mapping the set $A =\{1,2,3,4,5,6\}$ onto $A$ such that for every $a \in A,$
+\[
+\pi(\pi(\pi(\pi(\pi(\pi(a)))))) = a.
+\]

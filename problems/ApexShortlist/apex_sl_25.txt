@@ -1,0 +1,12 @@
+*** Problem Statement ***
+
+Let \(a\) be a positive integer. We say that \(a\) is bao-good if there exist integers \((s,l)\) such that:
+1. There does not exist a positive integer \(b\) for which
+\[
+    a \mid s^b - l.
+\]
+2. For every proper divisor \(a'\) of \(a\) (that is, \(a' \mid a\) and \(1 \le a' < a\)), there exists a positive integer \(b\) such that
+\[
+    a' \mid s^b - l.
+\]
+Determine the sum of the smallest 20 bao-good positive integers \(a\).

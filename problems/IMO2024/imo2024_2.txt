@@ -1,0 +1,7 @@
+*** Problem Statement ***
+
+Determine all pairs $(a, b)$ of positive integers for which there exist positive integers $g$ and $N$ such that
+\[
+\gcd(a^n + b, b^n + a) = g
+\]
+holds for all integers $n \geqslant N$. (Note that $\gcd(x, y)$ denotes the greatest common divisor of integers $x$ and $y$.)

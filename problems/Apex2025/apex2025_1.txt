@@ -1,0 +1,3 @@
+*** Problem Statement ***
+
+Let \( f: \mathbb{R} \to \mathbb{R} \) be a continuous function. A chord is defined as a segment of integer length, parallel to the x-axis, whose endpoints lie on the graph of \( f \). It is known that the graph of \( f \) contains exactly \( N \) chords, one of which has length 2025. Find the minimum possible value of \( N \).

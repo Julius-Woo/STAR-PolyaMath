@@ -1,0 +1,5 @@
+*** Problem Statement ***
+
+Jessica the jackrabbit wants to climb down a wall. The wall consists of 2026 horizontal layers stacked vertically. The $n$th layer from the top is partitioned into $2^n - 1$ identical rectangular bricks arranged side by side. Jessica begins in the topmost layer, which contains a single brick. A move consists of Jessica going down one layer to a brick that shares a side with the brick she is currently on.
+
+Determine, with proof, the total number of distinct sequences of moves Jessica can take to reach the 2026th layer.

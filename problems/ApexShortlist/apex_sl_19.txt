@@ -1,0 +1,5 @@
+*** Problem Statement ***
+
+Determine all triplets of positive integers $(p,m,n)$ such that $p$ is a prime, $m \neq n < 2p$ and $2 \nmid n$. Also, the following polynomial is reducible in $\mathbb{Z}[x]$
+$$x^{2p} - 2px^m - p^2x^n - 1$$
+Then, compute $\sum_{(p,m,n) \text{admissible}} p + m + n$

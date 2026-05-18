@@ -1,0 +1,3 @@
+*** Problem Statement ***
+
+A line intersects the graph of \( y = x^2 + \frac{2}{x} \) at three distinct points. Given that the \( x \)-coordinates of two of the points are 6 and 7, respectively, compute the \( x \)-coordinate of the third point.

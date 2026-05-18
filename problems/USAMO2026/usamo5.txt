@@ -1,0 +1,7 @@
+*** Problem Statement ***
+
+Let $ABC$ be a triangle. Points $D$, $E$, and $F$ lie on sides $BC$, $CA$, and $AB$, respectively, such that
+\[
+\angle AFE = \angle BDF = \angle CED.
+\]
+Let $O_A$, $O_B$, and $O_C$ be the circumcenters of triangles $AFE$, $BDF$, and $CED$, respectively. Let $M$, $N$, and $O$ be the circumcenters of triangles $ABC$, $DEF$, and $O_A O_B O_C$, respectively. Prove that $OM = ON$.

@@ -1,0 +1,5 @@
+*** Problem Statement ***
+
+Consider a $2025\times 2025$ board where we identify the squares with pairs $(i,j)$ where $i$ and $j$ denote the row and column number of that square, respectively.
+
+Calvin picks two positive integers $a,b<2025$ and places a pawn at the bottom left corner (i.e. on $(1,1)$) and makes the following moves. In his $k$-th move, he moves the pawn from $(i,j)$ to either $(i+a,j)$ or $(i,j+a)$ if $k$ is odd and to either $(i+b,j)$ and $(i,j+b)$ if $k$ is even. Here all the numbers are taken modulo $2025$. Find the number of pairs $(a,b)$ that Calvin could have picked such that he can make moves so that the pawn covers all the squares on the board without being on any square twice.

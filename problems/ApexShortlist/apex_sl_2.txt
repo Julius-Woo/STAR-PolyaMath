@@ -1,0 +1,3 @@
+*** Problem Statement ***
+
+The intersection between a plane and a cube is a convex pentagon $ABCDE$ satisfying $AB = BC = 10$, $CD = AE = 8$, and $DE = 3$. What is the surface area of the cube?

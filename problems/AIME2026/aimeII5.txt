@@ -1,0 +1,3 @@
+*** Problem Statement ***
+
+An urn contains $n$ marbles. Each marble is either red or blue, and there are at least $7$ marbles of each color. When $7$ marbles are drawn randomly from the urn without replacement, the probability that exactly $4$ of them are red equals the probability that exactly $5$ of them are red. Find the sum of the five least values of $n$ for which this is possible.

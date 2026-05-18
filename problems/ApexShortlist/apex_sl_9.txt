@@ -1,0 +1,12 @@
+*** Problem Statement ***
+
+Fix an integer $n \geq 3$. Determine the smallest positive integer $k$ satisfying the following condition:
+
+For any tree $T$ with vertices $v_1, v_2, \dots, v_n$ and any pairwise distinct complex numbers $z_1, z_2, \dots, z_n$, there is a polynomial $P(X, Y)$ with complex coefficients of total degree at most $k$ such that for all $i \neq j$ satisfying $1 \leq i, j \leq n$, we have $P(z_i, z_j) = 0$ if and only if there is an edge in $T$ joining $v_i$ to $v_j$.
+
+Note, for example, that the total degree of the polynomial
+$$
+9X^3Y^4 + XY^5 + X^6 - 2
+$$
+is 7 because $7 = 3 + 4$.
+

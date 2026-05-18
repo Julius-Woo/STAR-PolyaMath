@@ -1,0 +1,5 @@
+*** Problem Statement ***
+
+Let $n$ be a positive integer. We arrange $1 + 2 + \cdots + n$ circles in a triangle with $n$ rows, such that the $i^{\text{th}}$ row contains exactly $i$ circles.
+
+In this triangle, a \emph{ninja-path} is a sequence of circles obtained by repeatedly going from a circle to one of the two circles directly below it. In terms of $n$, find the largest value of $k$ such that if one circle from every row is coloured red, we can always find a ninja-path in which at least $k$ of the circles are red.

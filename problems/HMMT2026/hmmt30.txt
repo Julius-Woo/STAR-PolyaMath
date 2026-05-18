@@ -1,0 +1,3 @@
+*** Problem Statement ***
+
+Let $ABC$ be a triangle with centroid $G$ and circumcenter $O$. Suppose that the orthocenter of triangle $AGO$ lies on line $BC$. Given that $AB = 11$ and $AC = 13$, compute $BC$.

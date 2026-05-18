@@ -1,0 +1,12 @@
+*** Problem Statement ***
+
+Let \( A_1, A_2, A_3, \ldots \) be a sequence of finite nonempty sets of positive integers. Given that \( |A_i \cap A_j| = \gcd(i, j) \) for all (not necessarily distinct) positive integers \( i \) and \( j \), compute the minimum possible value of
+
+\[
+\sum_{d|250} \max A_d,
+\]
+
+where the sum ranges over all positive integer divisors \( d \) of 250.
+
+(For a finite nonempty set \( S \), we define \( \max S \) as the largest element of \( S \).)
+

@@ -1,0 +1,3 @@
+*** Problem Statement ***
+
+Let $n$ be a positive integer. Ana and Banana play a game. Banana thinks of a function $f\colon\mathbb{Z}\to\mathbb{Z}$ and a prime number $p$. He tells Ana that $f$ is nonconstant, $p<100$, and $f(x+p)=f(x)$ for all integers $x$. Ana's goal is to determine the value of $p$. She writes down $n$ integers $x_1,\dots,x_n$. After seeing this list, Banana writes down $f(x_1),\dots,f(x_n)$ in order. Ana wins if she can determine the value of $p$ from this information. Find the smallest value of $n$ for which Ana has a winning strategy.

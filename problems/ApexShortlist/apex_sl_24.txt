@@ -1,0 +1,6 @@
+*** Problem Statement ***
+
+A country has 2025 cites, with some pairs of cities having bidirectional flight routes between them. For any pair of the cities, the flight route between them must be operated by one of the companies $X, Y$ or $Z$. To avoid unfairly favoring specific company, the regulation ensures that if there have three cities $A, B$ and $C$, with flight routes $A \leftrightarrow B$ and $A \leftrightarrow C$ operated by two different companies, then there must exist flight route $B \leftrightarrow C$ operated by the third company different from $A \leftrightarrow B$ and $A \leftrightarrow C$ .
+
+Let $n_X$, $n_Y$ and $n_Z$ denote the number of flight routes operated by companies $X, Y$ and $Z$, respectively. It is known that, starting from a city, we can arrive any other city through a series of flight routes (not necessary operated by the same company). Find the minimum possible value of $\max(n_X, n_Y , n_Z)$.
+

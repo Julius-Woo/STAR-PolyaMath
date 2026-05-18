@@ -1,0 +1,3 @@
+*** Problem Statement ***
+
+Vaysha has a board with $999$ consecutive numbers written and $999$ labels of the form "This number is not divisible by $i$", for $i \in \{ 2,3, \dots ,1000 \} $. She places each label next to a number on the board, so that each number has exactly one label. For each true statement on the stickers, Vaysha gets a piece of candy. How many pieces of candy can Vaysha guarantee to win, regardless of the numbers written on the board, if she plays optimally?

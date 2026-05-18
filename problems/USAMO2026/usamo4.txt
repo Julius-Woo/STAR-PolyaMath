@@ -1,0 +1,4 @@
+*** Problem Statement ***
+
+A positive integer $n$ is called \emph{solitary} if, for any nonnegative integers $a$ and $b$ such that $a + b = n$, either $a$ or $b$ contains the digit ``1''. Determine, with proof, the number of solitary integers less than $10^{2026}$.
+

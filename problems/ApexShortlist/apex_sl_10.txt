@@ -1,0 +1,5 @@
+*** Problem Statement ***
+
+Let $n$ be a positive integer. Given an $n\times n$ board, the unit cell in the top left corner is initially coloured black, and the other cells are coloured white. We then apply a series of colouring operations to the board. In each operation, we choose a $2\times 2$ square with exactly one cell coloured black and we colour the remaining three cells of that $2\times 2$ square black.
+
+Determine the sum of the smallest $20$ $n$ such that it is possible to colour the entire $n\times n$ board black.

@@ -1,0 +1,11 @@
+*** Problem Statement ***
+
+At time $t=0$, Hobbes writes down positive real numbers at the vertices of a regular polygon $P_1P_2\dots P_n$. Suppose that after an even number of seconds, the numbers $x$ and $y$ are written on $P_i$ and $P_{i+1}$ respectively. Then one second later, Hobbes updates the number at $P_i$ to $x+\frac{1}{y}$. Here $i$ is taken modulo $n$.
+
+Let $N(n)$ denote the number of pairs $(i,j)$ (in terms of $n$) for which can we guarantee (without knowing what Hobbes wrote down) that at some point in time the number at $P_i$ is at least as large as the number at $P_j$. Compute 
+\[
+\sum_{n=1}^{2025} N(n).
+\]
+
+Note. The numbers are all updated only whenever an odd number of seconds have passed. If all the numbers were initially $1$ then after $1$ second they would all be updated to $2$ then at $T=3s$, they will all be updated to $2.5$ and so on.
+

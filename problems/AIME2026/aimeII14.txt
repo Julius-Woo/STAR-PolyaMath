@@ -1,0 +1,7 @@
+*** Problem Statement ***
+
+For integers $a$ and $b,$ let $a \circ b = a - b$ if $a$ is odd and $b$ is even, and $a+b$ otherwise. Find the number of sequences $a_1, a_2, a_3, \ldots, a_n$ of positive integers such that
+\[
+a_1 + a_2 + a_3 + \cdots + a_n = 12 \quad \text{and} \quad a_1 \circ a_2 \circ a_3 \circ \cdots \circ a_n = 0
+\]
+where the operations are performed from left to right; that is, $a_1 \circ a_2 \circ a_3$ means $(a_1 \circ a_2) \circ a_3.$

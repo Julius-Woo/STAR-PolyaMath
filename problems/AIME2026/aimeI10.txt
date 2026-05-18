@@ -1,0 +1,3 @@
+*** Problem Statement ***
+
+Let $\triangle ABC$ have side lengths $AB = 13, BC = 14,$ and $CA = 15.$ Triangle $\triangle A'B'C'$ is obtained by rotating $\triangle ABC$ about its circumcenter so that ${}\overline{AC}$ is perpendicular $\overline{BC},$ with $A'$ and $B$ not on the same side of line $B'C'.$ Find the integer closest to the area of hexagon $AA'CC'BB'.$

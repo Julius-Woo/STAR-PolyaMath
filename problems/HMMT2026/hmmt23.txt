@@ -1,0 +1,3 @@
+*** Problem Statement ***
+
+Let \( ABCD \) be a rectangle with \( AB = 12 \) and \( BC = 16 \). Points \( W, X, Y, \) and \( Z \) lie on sides \( \overline{AB}, \overline{BC}, \overline{CD}, \) and \( \overline{DA} \), respectively, such that \( WXYZ \) is a rhombus with area 120. Compute \( XY \).

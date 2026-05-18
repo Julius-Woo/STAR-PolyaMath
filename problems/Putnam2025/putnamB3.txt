@@ -1,0 +1,3 @@
+*** Problem Statement ***
+
+Suppose $S$ is a nonempty set of positive integers with the property that if $n$ is in $S$, then every positive divisor of $2025^n -15^n$ is in $S$. Must $S$ contain all positive integers?

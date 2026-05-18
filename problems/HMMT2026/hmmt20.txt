@@ -1,0 +1,8 @@
+*** Problem Statement ***
+
+Let \(S\) be the set of all ordered pairs \((x, y)\) of nonnegative integers \(0 \leq x \leq 19\) and \(0 \leq y \leq 2\). Compute the number of permutations \((x_1, y_1)\), \((x_2, y_2)\), ..., \((x_{60}, y_{60})\) of the elements of \(S\) such that
+
+- \(y_1 = 2\) and \(y_{60} = 0\);
+- for all nonnegative integers \(1 \leq i \leq 59\), exactly one of the following holds:
+  - \(x_i = x_{i+1}\) and \(|y_i - y_{i+1}| = 1\),
+  - \(y_i = y_{i+1}\) and \(x_i - x_{i+1}\) is \(-1\) or \(19\).

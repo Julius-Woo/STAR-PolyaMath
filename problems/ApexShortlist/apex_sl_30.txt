@@ -1,0 +1,3 @@
+*** Problem Statement ***
+
+Let $\triangle A B C$ be an isosceles triangle with $A B=A C$. Let $D$ be a point on the circumcircle of $\triangle A B C$ on minor arc $A B$. Let $\overline{A D}$ intersect the extension of $\overline{B C}$ at $E$. Let $F$ be the midpoint of segment $A C$, and let $G$ be the intersection of $\overline{E F}$ and $\overline{A B}$. Let the extension of $\overline{D G}$ intersect $\overline{A C}$ and the circumcircle of $\triangle A B C$ at $H$ and $I$, respectively. Given that $D G=3, G H=5$, and $H I=1$, compute the length of $A E$.

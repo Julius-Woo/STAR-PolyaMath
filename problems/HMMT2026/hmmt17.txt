@@ -1,0 +1,3 @@
+*** Problem Statement ***
+
+Let $S$ be the set of vertices of a right prism whose bases are regular decagons $A_1A_2 \ldots A_{10}$ and $B_1B_2 \ldots B_{10}$. A plane, not passing through any vertex of $S$, partitions the vertices of $S$ into two sets, one of which is $M$. Compute the number of possible sets $M$ that can arise out of such a partition.

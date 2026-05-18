@@ -1,0 +1,3 @@
+*** Problem Statement ***
+
+Let \( ABC \) be an isosceles triangle with \( AB = AC \). Points \( P \) and \( Q \) are located inside triangle \( ABC \) such that \( BP = PQ = QC \). Suppose that \( \angle BAP = 20^\circ \), \( \angle PAQ = 46^\circ \), and \( \angle QAC = 26^\circ \). Compute the measure of \( \angle APC \) in degrees.

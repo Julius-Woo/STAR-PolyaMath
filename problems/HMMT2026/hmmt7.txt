@@ -1,0 +1,17 @@
+*** Problem Statement ***
+
+Positive real numbers \( x, y, \) and \( z \) satisfy the following equations:
+
+\[
+xyz = 3,
+\]
+\[
+(x-y)(y-z)(z-x) = 4,
+\]
+\[
+(x+y)(y+z)(z+x) = 40.
+\]
+
+Compute the minimum possible value for \( x \).
+
+Give the minimum value of x as an exact expression using only integers, rational numbers, and radicals (no trigonometric or inverse trigonometric functions, and no approximations).

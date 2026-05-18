@@ -1,0 +1,3 @@
+*** Problem Statement ***
+
+Hannah has a $2024 \times 2025$ rectangle in the coordinate plane, with sides parallel to the axes. She makes a cut from one side to another side which only goes down and/or right along grid lines. Then she puts the two pieces together, possibly with rotations and/or reflections without overlaps or gaps, to form a new rectangle which is not congruent to the original. How many possible new rectangles can she produce? (An $a \times b$ rectangle is considered the same as a $b \times a$ rectangle.)

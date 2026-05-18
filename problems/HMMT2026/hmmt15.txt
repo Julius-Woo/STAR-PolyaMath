@@ -1,0 +1,6 @@
+*** Problem Statement ***
+
+Let $S$ be the set of positive integer divisors of $10^9$. Compute the number of subsets $T$ of $S$ such that
+
+- for every element $s$ of $S$, exactly one of $s$ and $10^9/s$ is in $T$, and
+- for every element $t$ of $T$, all positive integer divisors of $t$ are in $T$.

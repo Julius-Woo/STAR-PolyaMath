@@ -1,0 +1,5 @@
+*** Problem Statement ***
+
+Bugs Bunny wants to choose a number $k$ such that every collection of $k$ consecutive positive integers contains an integer whose sum of digits is divisible by $2025$.
+
+Find the smallest positive integer $k$ for which he can do this, or prove that none exist.

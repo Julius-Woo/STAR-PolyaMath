@@ -1,0 +1,7 @@
+*** Problem Statement ***
+
+The 27 cells of a $3\times9$ grid are filled in using the numbers 1 through 9 so that each row contains 9 different numbers, and each of the three $3\times3$ blocks heavily outlined in the example below contains 9 different numbers, as in the first three rows of a Sudoku puzzle. 
+ | 4 | 2 | 8 | 9 | 6 | 3 | 1 | 7 | 5 | 
+ | 3 | 7 | 9 | 5 | 2 | 1 | 6 | 8 | 4 | 
+ | 5 | 6 | 1 | 8 | 4 | 7 | 9 | 2 | 3 | 
+The number of different ways to fill such a grid can be written as $p^a\cdot q^b\cdot r^c\cdot s^d$, where $p,q,r,$ and $s$ are distinct prime numbers and $a,b,c,$ and $d$ are positive integers. Find $p\cdot a+q\cdot b+r\cdot c+s\cdot d$.

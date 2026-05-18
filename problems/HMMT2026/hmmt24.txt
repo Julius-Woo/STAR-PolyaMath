@@ -1,0 +1,3 @@
+*** Problem Statement ***
+
+Let \( ABC \) be a triangle with \( \angle BAC = 90^\circ \). Points \( X \) and \( Y \) are such that \( B, X, Y, \) and \( C \) lie on segment \( \overline{BC} \) in that order, \( BX = 4, XY = 5, \) and \( YC = 3 \). Let \( T \) be a point lying on segment \( \overline{AC} \) such that \( TA = TX = TY = \ell \) for some \( \ell \). Compute \( \ell \).

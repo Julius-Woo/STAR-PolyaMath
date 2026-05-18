@@ -1,0 +1,4 @@
+*** Problem Statement ***
+
+The country of ELMOpia has $n \ge 4$ cities, where some pairs of cities are connected by a road. An astute traveler notices that for any $2$ cities $A$ and $B$, there exist (distinct) cities $C$ and $D$ such that $A-C$, $C-B$, $B-D$, $D-A$ are all connected by roads. Let $S(n)$ be the minimum number of roads in ELMOpia, in terms of $n$. Determine \(\sum_{n=10}^{20} S(n)\).
+

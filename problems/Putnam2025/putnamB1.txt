@@ -1,0 +1,3 @@
+*** Problem Statement ***
+
+Suppose that each point in the plane is colored either red or green, subject to the following condition: For every three noncollinear points $A,B,C$ of the same color, the center of the circle passing through $A,B$ and $C$ is also this color. Prove that all points of the plane are the same color.

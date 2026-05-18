@@ -1,0 +1,3 @@
+*** Problem Statement ***
+
+Let $\triangle ABC$ be a triangle with $D$ on $\overline{BC}$ such that $\overline{AD}$ bisects $\angle BAC.$ Let $\omega$ be the circle that passes through $A$ and is tangent to segment $\overline{BC}$ at $D.$ Let $E \neq A$ and $F \neq A$ be the intersections of $\omega$ with segments $\overline{AB}$ and $\overline{AC},$ respectively. Suppose that $AB = 200, AC = 225,$ and all of $AE, AF, BD,$ and $CD$ are positive integers. Find the sum of all possible values of $BC.$

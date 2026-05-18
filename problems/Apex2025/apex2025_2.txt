@@ -1,0 +1,3 @@
+*** Problem Statement ***
+
+Let $P$ be a polygon formed by the edges of an infinite chessboard, which does not intersect itself. Let the numbers $a_1,a_2,a_3$ represent the number of unit squares that have exactly $1,2\text{ or } 3$ edges on the boundary of $P$ respectively. Find the largest real number $k$ such that the inequality $a_1+a_2>ka_3$ holds for each polygon constructed with these conditions.

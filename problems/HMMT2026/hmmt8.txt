@@ -1,0 +1,7 @@
+*** Problem Statement ***
+
+Let \( a_0, a_1, a_2, \ldots \) be the unique sequence of nonnegative integers less than 397 with \( a_0 = 1 \) and
+
+\[ a_{n+1}(a_n + 1)^2 \equiv a_n \pmod{397} \]
+
+for all nonnegative integers \( n \). Given that \( a_{2026} = 9 \), compute the remainder when \( a_0 + a_1 + \cdots + a_{2026} \) is divided by 397.

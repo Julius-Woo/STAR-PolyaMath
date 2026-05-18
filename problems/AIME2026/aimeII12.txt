@@ -1,0 +1,3 @@
+*** Problem Statement ***
+
+Consider a tetrahedron with two isosceles triangle faces with side lengths $5\sqrt{10}, 5\sqrt{10},$ and $10$ and two isosceles triangle faces with side lengths $5\sqrt{10}, 5\sqrt{10},$ and $18.$ The four vertices of the tetrahedron lie on a sphere with center $S,$ and the four faces of the tetrahedron are tangent to a sphere with center $R.$ The distance $RS$ can be written as $\tfrac{m}{n},$ where $m$ and $n$ are relatively prime positive integers. Find $m + n.$

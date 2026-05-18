@@ -1,0 +1,7 @@
+*** Problem Statement ***
+
+Find the greatest integer $n$ such that the cubic polynomial
+\[
+x^{3} - \displaystyle\frac{n}{6}x^{2} + (n - 11)x - 400
+\]
+has roots $\alpha^{2}$, $\beta^{2}$, and $\gamma^{2}$, where $\alpha$, $\beta$, and $\gamma$ are complex numbers, and there are exactly seven different possible values for $\alpha + \beta + \gamma$.

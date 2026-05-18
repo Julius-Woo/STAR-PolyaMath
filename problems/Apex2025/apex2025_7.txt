@@ -1,0 +1,3 @@
+*** Problem Statement ***
+
+There are $2025$ people and $66$ colors, where each person has one ball of each color. For each person, their $66$ balls have positive mass summing to one. Find the smallest constant $C$ such that regardless of the mass distribution, each person can choose one ball such that the sum of the chosen balls of each color does not exceed $C$.

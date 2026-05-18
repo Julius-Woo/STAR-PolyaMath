@@ -1,0 +1,3 @@
+*** Problem Statement ***
+
+A hemisphere with radius $200$ sits on top of a horizontal circular disk with radius $200,$ and the hemisphere and disk have the same center. Let $\mathcal T$ be the region of points P in the disk such that a sphere of radius $42$ can be placed on top of the disk at $P$ and lie completely inside the hemisphere. The area of $\mathcal T$ divided by the area of the disk is $\tfrac pq,$ where $p$ and $q$ are relatively prime positive integers. Find $p+q.$

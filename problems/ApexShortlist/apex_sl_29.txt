@@ -1,0 +1,3 @@
+*** Problem Statement ***
+
+The circumference of a circle is divided into $45$ arcs, each of length $1$. Initially, there are $15$ snakes, each of length $1$, occupying every third arc. Every second, each snake independently moves either one arc left or one arc right, each with probability $\frac{1}{2}$. If two snakes ever touch, they merge to form a single snake occupying the arcs of both of the previous snakes, and the merged snake moves as one snake. Compute the expected number of seconds until there is only one snake left.

@@ -1,0 +1,5 @@
+*** Problem Statement ***
+
+Let $\alpha$ and $\beta$ be complex numbers such that $\alpha\beta + \alpha + \beta + 100 = 0$. Suppose that $|\alpha| = |\beta| = M$ for some nonnegative real number $M$. Determine, with proof, all possible values of $M$.
+
+Output your answer as a comma-separated list of all possible values of $M$. For instance, if you believe 0,1, and 2 are the possible values, format you reply as \\boxed{0,1,2}

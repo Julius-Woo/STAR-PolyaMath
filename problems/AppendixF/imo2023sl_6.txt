@@ -1,0 +1,5 @@
+*** Problem Statement ***
+
+Let $N$ be a positive integer, and consider an $N \times N$ grid. A \emph{right-down path} is a sequence of grid cells such that each cell is either one cell to the right of or one cell below the previous cell in the sequence. A \emph{right-up path} is a sequence of grid cells such that each cell is either one cell to the right of or one cell above the previous cell in the sequence.
+
+Prove that the cells of the $N \times N$ grid cannot be partitioned into less than $N$ right-down or right-up paths.

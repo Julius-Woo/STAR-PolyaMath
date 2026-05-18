@@ -1,0 +1,9 @@
+*** Problem Statement ***
+
+Let $n$ be an integer greater than $1$. For which real numbers $x$ is
+\[
+\lfloor nx \rfloor - \sum_{k=1}^{n} \frac{\lfloor kx \rfloor}{k}
+\]
+maximal, and what is the maximal value that this expression can take?
+ 
+\textit{Note:} $\lfloor z \rfloor$ denotes the greatest integer less than or equal to $z$.
