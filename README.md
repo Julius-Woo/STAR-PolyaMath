@@ -2,8 +2,7 @@
 
 A multi-agent framework for solving competition mathematics problems with persistent meta-strategic supervision. STAR-PólyaMath couples a Python orchestrator with three LLM agents — a **Reasoner**, a **Verifier**, and a persistent **Meta-Strategist** — running on top of the GitHub Copilot CLI.
 
-For the system design, evaluation, and ablations, see the paper:
-> *STAR-PólyaMath: Multi-Agent Reasoning under Persistent Meta-Strategic Supervision.*
+For the system design, evaluation, and ablations, see the paper [STAR-PólyaMath: Multi-Agent Reasoning under Persistent Meta-Strategic Supervision](https://arxiv.org/abs/2605.19338v1).
 
 ---
 
